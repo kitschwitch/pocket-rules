@@ -14,8 +14,8 @@ export default defineConfig({
                 name: 'Pinball Capital – Pocket Rules',
                 short_name: 'Pocket Rules',
                 description: 'Offline pinball rulesheets',
-                theme_color: '#14101f',
-                background_color: '#14101f',
+                theme_color: '#0c1612',
+                background_color: '#0c1612',
                 display: 'standalone',
                 start_url: './',
                 icons: [

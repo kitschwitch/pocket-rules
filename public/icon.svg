@@ -1,7 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="96" fill="#14101f"/>
-  <circle cx="256" cy="200" r="104" fill="#e8e3f5"/>
-  <circle cx="222" cy="166" r="30" fill="#ffffff"/>
-  <path d="M120 400 L236 352" stroke="#ff4fa3" stroke-width="36" stroke-linecap="round"/>
-  <path d="M392 400 L276 352" stroke="#ff4fa3" stroke-width="36" stroke-linecap="round"/>
+  <rect width="512" height="512" rx="96" fill="#0c1612"/>
+  <!-- ball -->
+  <circle cx="256" cy="190" r="88" fill="#e8e3f5"/>
+  <circle cx="226" cy="160" r="26" fill="#ffffff"/>
+  <!-- flippers: pivot on the outside, tips angled down toward the center drain -->
+  <g fill="#3ddc84">
+    <circle cx="130" cy="340" r="28"/>
+    <circle cx="226" cy="396" r="12"/>
+    <polygon points="144.1,315.8 232.05,385.6 219.95,406.4 115.9,364.2"/>
+    <circle cx="382" cy="340" r="28"/>
+    <circle cx="286" cy="396" r="12"/>
+    <polygon points="367.9,315.8 279.95,385.6 292.05,406.4 396.1,364.2"/>
+  </g>
+  <!-- pivot pins -->
+  <circle cx="130" cy="340" r="8" fill="#0c1612"/>
+  <circle cx="382" cy="340" r="8" fill="#0c1612"/>
 </svg>
