@@ -1,0 +1,5 @@
+FAILED  bali-hi (primer): HTTP 404 for https://pinballprimer.github.io/balihi_GRJDx.html
+FAILED  blue-max (primer): HTTP 404 for https://pinballprimer.github.io/redbaron_CryvE.html
+FLAT    beatniks (primer): one section, 3087 chars – https://pinballprimer.github.io/beatniks_G5bYP.html
+FLAT    darts (primer): one section, 3024 chars – https://pinballprimer.github.io/darts_G5WWb.html
+FLAT    six-sticks (primer): one section, 3137 chars – https://pinballprimer.github.io/sixsticks_GRWeJ.html
