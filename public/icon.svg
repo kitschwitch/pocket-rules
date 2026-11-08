@@ -72,16 +72,34 @@
 <circle cx="338.1" cy="278.0" r="4.2" fill="#d62839"/>
 <circle cx="256" cy="300" r="70" fill="#e8e3f5"/>
 <circle cx="232" cy="276" r="21" fill="#ffffff"/>
-<path transform="translate(420,262) scale(2.0)" d="M0,10 C-14,0 -14,-14 -6,-16 C-2,-17 0,-13 0,-11 C0,-13 2,-17 6,-16 C14,-14 14,0 0,10Z" fill="#d62839"/>
-<circle cx="420" cy="256" r="5" fill="#f4efe6"/>
-<circle cx="420" cy="216" r="6" fill="#f2c94c"/>
-<circle cx="420" cy="308" r="6" fill="#f2c94c"/>
-<circle cx="420" cy="196" r="4" fill="#c06ad6"/>
-<path transform="translate(92,262) scale(2.0)" d="M0,10 C-14,0 -14,-14 -6,-16 C-2,-17 0,-13 0,-11 C0,-13 2,-17 6,-16 C14,-14 14,0 0,10Z" fill="#d62839"/>
-<circle cx="92" cy="256" r="5" fill="#f4efe6"/>
-<circle cx="92" cy="216" r="6" fill="#f2c94c"/>
-<circle cx="92" cy="308" r="6" fill="#f2c94c"/>
-<circle cx="92" cy="196" r="4" fill="#c06ad6"/>
+<path transform="translate(420,258) scale(2.0,3.0)" d="M0,10 C-14,0 -14,-14 -6,-16 C-2,-17 0,-13 0,-11 C0,-13 2,-17 6,-16 C14,-14 14,0 0,10Z" fill="#d62839"/>
+<circle cx="420" cy="232" r="5" fill="#f4efe6"/><circle cx="420" cy="250" r="4" fill="#f2c94c"/><circle cx="420" cy="265" r="3" fill="#f4efe6"/>
+<circle cx="420" cy="196" r="6" fill="#f2c94c"/>
+<circle cx="420" cy="180" r="4.5" fill="#d62839"/>
+<circle cx="420" cy="166" r="4" fill="#c06ad6"/>
+<circle cx="420" cy="153" r="3.5" fill="#3f9e5a"/>
+<circle cx="420" cy="142" r="3" fill="#f2c94c"/>
+<circle cx="420" cy="302" r="5.5" fill="#f2c94c"/>
+<circle cx="390" cy="214" r="3.5" fill="#f2c94c"/>
+<circle cx="450" cy="214" r="3.5" fill="#f2c94c"/>
+<circle cx="394" cy="246" r="3.5" fill="#c06ad6"/>
+<circle cx="446" cy="246" r="3.5" fill="#c06ad6"/>
+<circle cx="402" cy="274" r="3.5" fill="#3f9e5a"/>
+<circle cx="438" cy="274" r="3.5" fill="#3f9e5a"/>
+<path transform="translate(92,258) scale(2.0,3.0)" d="M0,10 C-14,0 -14,-14 -6,-16 C-2,-17 0,-13 0,-11 C0,-13 2,-17 6,-16 C14,-14 14,0 0,10Z" fill="#d62839"/>
+<circle cx="92" cy="232" r="5" fill="#f4efe6"/><circle cx="92" cy="250" r="4" fill="#f2c94c"/><circle cx="92" cy="265" r="3" fill="#f4efe6"/>
+<circle cx="92" cy="196" r="6" fill="#f2c94c"/>
+<circle cx="92" cy="180" r="4.5" fill="#d62839"/>
+<circle cx="92" cy="166" r="4" fill="#c06ad6"/>
+<circle cx="92" cy="153" r="3.5" fill="#3f9e5a"/>
+<circle cx="92" cy="142" r="3" fill="#f2c94c"/>
+<circle cx="92" cy="302" r="5.5" fill="#f2c94c"/>
+<circle cx="62" cy="214" r="3.5" fill="#f2c94c"/>
+<circle cx="122" cy="214" r="3.5" fill="#f2c94c"/>
+<circle cx="66" cy="246" r="3.5" fill="#c06ad6"/>
+<circle cx="118" cy="246" r="3.5" fill="#c06ad6"/>
+<circle cx="74" cy="274" r="3.5" fill="#3f9e5a"/>
+<circle cx="110" cy="274" r="3.5" fill="#3f9e5a"/>
 <g transform="translate(256 391) scale(1.22) translate(-256 -405)">
 <g fill="#d62839">
 <circle cx="130" cy="390" r="28"/><circle cx="226" cy="446" r="12"/><polygon points="144.1,365.8 232.05,435.6 219.95,456.4 115.9,414.2"/>
