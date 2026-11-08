@@ -74,6 +74,10 @@
 <circle cx="232" cy="276" r="21" fill="#ffffff"/>
 <path transform="translate(420,258) scale(2.0,3.0)" d="M0,10 C-14,0 -14,-14 -6,-16 C-2,-17 0,-13 0,-11 C0,-13 2,-17 6,-16 C14,-14 14,0 0,10Z" fill="#d62839"/>
 <circle cx="420" cy="232" r="5" fill="#f4efe6"/><circle cx="420" cy="250" r="4" fill="#f2c94c"/><circle cx="420" cy="265" r="3" fill="#f4efe6"/>
+<path d="M420,120 Q409,104 420,84 Q431,104 420,120Z" fill="#f2c94c"/>
+<path d="M401,102 Q400,128 420,132 Q440,128 439,102 Q429,114 420,116 Q411,114 401,102Z" fill="#f2c94c"/>
+<path d="M410,118 Q420,126 430,118" fill="none" stroke="#d62839" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="420" cy="104" r="3" fill="#d62839"/>
 <circle cx="420" cy="196" r="6" fill="#f2c94c"/>
 <circle cx="420" cy="180" r="4.5" fill="#d62839"/>
 <circle cx="420" cy="166" r="4" fill="#c06ad6"/>
@@ -88,6 +92,10 @@
 <circle cx="438" cy="274" r="3.5" fill="#3f9e5a"/>
 <path transform="translate(92,258) scale(2.0,3.0)" d="M0,10 C-14,0 -14,-14 -6,-16 C-2,-17 0,-13 0,-11 C0,-13 2,-17 6,-16 C14,-14 14,0 0,10Z" fill="#d62839"/>
 <circle cx="92" cy="232" r="5" fill="#f4efe6"/><circle cx="92" cy="250" r="4" fill="#f2c94c"/><circle cx="92" cy="265" r="3" fill="#f4efe6"/>
+<path d="M92,120 Q81,104 92,84 Q103,104 92,120Z" fill="#f2c94c"/>
+<path d="M73,102 Q72,128 92,132 Q112,128 111,102 Q101,114 92,116 Q83,114 73,102Z" fill="#f2c94c"/>
+<path d="M82,118 Q92,126 102,118" fill="none" stroke="#d62839" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="92" cy="104" r="3" fill="#d62839"/>
 <circle cx="92" cy="196" r="6" fill="#f2c94c"/>
 <circle cx="92" cy="180" r="4.5" fill="#d62839"/>
 <circle cx="92" cy="166" r="4" fill="#c06ad6"/>
